@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia de Ferrari</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            max-width: 600px;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #ff0000;
+        }
+        p {
+            text-align: justify;
+        }
+        .logo {
+            display: block;
+            margin: 20px auto;
+            width: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Historia de Ferrari</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Ferrari-Logo.svg/1200px-Ferrari-Logo.svg.png" alt="Logo de Ferrari" class="logo">
+        <p>
+            Ferrari fue fundada en 1939 por Enzo Ferrari bajo el nombre Auto Avio Costruzioni. La marca debutó oficialmente como fabricante de autos en 1947 con el lanzamiento del Ferrari 125 S, el primer automóvil que llevaba el nombre Ferrari. A lo largo de los años, Ferrari se ha consolidado como un símbolo de velocidad, lujo y exclusividad en el mundo de los automóviles.
+        </p>
+        <p>
+            Durante la década de 1950, Ferrari comenzó a destacar en competiciones de automovilismo, particularmente en la Fórmula 1. La escudería Ferrari es una de las más antiguas y exitosas en la historia de la F1, y ha ganado múltiples campeonatos de pilotos y constructores. 
+        </p>
+        <p>
+            En 1969, Enzo Ferrari vendió una participación del 50% de la compañía a Fiat para obtener fondos para el desarrollo de nuevos modelos. Desde entonces, Ferrari ha lanzado modelos icónicos como el Ferrari 250 GTO, el F40, y el Enzo, convirtiéndose en una de las marcas de automóviles de lujo más reconocidas en el mundo.
+        </p>
+        <p>
+            Ferrari continúa su legado, no solo en la industria automotriz sino también en las competencias de Fórmula 1, donde la escudería sigue siendo un pilar fundamental. Con su característico color rojo y su logo del caballo encabritado, Ferrari sigue siendo sinónimo de excelencia y pasión en el mundo de los autos deportivos.
+        </p>
+    </div>
+</body>
+</html>
